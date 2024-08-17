@@ -39,7 +39,8 @@ aa-dev
 ```
 
 ```bash
-git clone https://github.com/swashman/lawn-home.git
+git clone https://github.com/swashman/lawn-home.git lawn-home
+cd lawn-home
 pre-commit install
 ```
 
