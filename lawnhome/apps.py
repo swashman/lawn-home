@@ -10,6 +10,6 @@ from lawnhome import __version__
 class LawnHomeConfig(AppConfig):
     """App Config"""
 
-    name = "lawn_home"
-    label = "lawn_home"
+    name = "lawnhome"
+    label = "lawnhome"
     verbose_name = f"Lawn Home v{__version__}"
