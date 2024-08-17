@@ -51,12 +51,13 @@ Once you've cloned or copied all files into place, you're ready to install it to
 Make sure you're in your venv. Then install it with pip in editable mode:
 
 ```bash
-pip install -e aa-your-app-name
+pip install -e lawn-home
 ```
 
 First add your app to the Django project by adding the name of your app to
 INSTALLED_APPS in `settings/local.py`.
 
+Make sure you are in aa-dev/myauth
 Then migrate
 
 ```bash
